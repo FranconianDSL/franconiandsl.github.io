@@ -1,5 +1,5 @@
-# Franconian Data Science Leage
+# Current Season
 
-![alt text](Pictures/logo.jpg "Title")
 
-This website will contain more detailed infomation about the [Franconian Data Science Leage](https://www.linkedin.com/company/data-science-league), soon.
+
+This website will contain more detailed information about the current season of the  Franconian Data Science League, soon.
