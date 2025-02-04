@@ -7,4 +7,4 @@ This website will contain more detailed information about the [Franconian Data S
 ### Navigation
 * [Current Season](/Site/Current_season/current_season.md), soon.
 * [Past Season](/Site/Past_season/past_season.md), soon.
-* [Data] (/Site/Data/data.md), soon.
+* [Data](/Site/Data/data.md), soon.
