@@ -1,3 +1,14 @@
 theme: jekyll-theme-minimal
+logo: /Pictures/logo.jpg
 title: Franconian Data Science League
 description: Bookmark this to keep an eye on matchdays and the leaderboard of the Franconian Data Science League!
+favicon: true
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+
+platforms:
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/company/data-science-league
