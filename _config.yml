@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 logo: /Pictures/logo.jpg
+email: benedikt.mangold@th-nuernberg.de
 title: Franconian Data Science League
 description: Bookmark this to keep an eye on matchdays and the leaderboard of the Franconian Data Science League!
 favicon: true
@@ -7,6 +8,8 @@ color-scheme: auto
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 
 platforms:
   - name: LinkedIn
