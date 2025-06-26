@@ -3,6 +3,6 @@
 This website contain more detailed information about the challenges (incl. datasets) of the [Franconian Data Science Leage](https://www.linkedin.com/company/data-science-league)
 
 ### Navigation
-* [Current Season](/Site/Current_season/), soon.
+* [Current Season](/Site/Current_season/)
 * [Past Season](/Site/Past_season/)
 * [Data](/Site/Data/)
