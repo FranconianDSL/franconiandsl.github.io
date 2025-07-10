@@ -1,3 +1,7 @@
+> *"Turning unknown unknowns into known unknowns - since 2020."*  
+> — **Franconian Data Science League**
+
+
 This website contain more detailed information about the challenges (incl. datasets) of the [Franconian Data Science Leage](https://www.linkedin.com/company/data-science-league)
 
 
