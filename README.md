@@ -29,6 +29,7 @@ Season 2 (since 2023) has the following participating companies / institutions :
 - NKD
 - Sintec
 - Teambank AG
+- Technische Universität Nürnberg
 
 *yet to actively participate in or host a hackathon
 
